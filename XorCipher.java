@@ -156,7 +156,7 @@ public class XorCipher {
 	/*
 	public static void main(String args[]) {
 
-		String message = "Katherine Smells";
+		String message = "Someone Smells";
 		char key = 'a';
 		
 		
